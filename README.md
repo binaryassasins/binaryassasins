@@ -8,7 +8,6 @@
 
 ### Success Quote 🏆
 
-                         "True success came from success. Failure will result in success. Failure never ends. 
-                          Without failure, success could be terminated."
+                         "True success came from a failure and it never ends. 
 
-                                                                                                   [FiqAtGit]
+                                                                   [FiqAtGit]
