@@ -8,6 +8,6 @@
 
 ### Success Quote 🏆
 
-                                                  "True success came from a failure and it never ends. 
+                                              "True success came from a failure and it never ends. 
 
-                                                                                            [FiqAtGit]
+                                                                                        [FiqAtGit]
