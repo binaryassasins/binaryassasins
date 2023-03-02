@@ -8,6 +8,6 @@
 
 ### Success Quote 🏆
 
-                                          Walk properly, not slowly, work smartly, not quickly 
+    Walk properly, not slowly, work smartly, not quickly 
 
-                                                                                    [FiqAtGit]
+                                              [FiqAtGit]
