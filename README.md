@@ -1,4 +1,4 @@
-![WELCOME TO MY G-REPO](https://user-images.githubusercontent.com/82915997/222535296-aba26f1e-6814-424a-8d5f-6ffe54e43fad.png)
+![WELCOME TO MY G-REPO](https://user-images.githubusercontent.com/82915997/229525353-055e2581-26aa-401b-8306-914ba742747c.png)
 
 --> 🏮 I'm a student who loves to learn new languages
 
