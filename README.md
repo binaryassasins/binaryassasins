@@ -7,6 +7,4 @@
 🏮 Keep up-to-date with my repositories!
 
 ### Success Quote 🏆
-<div style="text-align: center;">Walk properly, not slowly, work smartly, not quickly</div>
-
-***<p style="text-align: center;">Text with basic formatting applied</p>***
+*<p style="text-align: center;">Walk properly, not slowly, work smartly, not quickly</p>*
