@@ -7,8 +7,7 @@
 🏮 Keep up-to-date with my repositories!
 
 ### Success Quote 🏆
-<p style="text-align: center;">
+<div style="text-align: center;">
   Walk properly, not slowly, work smartly, not quickly
-  syafiq
-</p>
+</div>
 
