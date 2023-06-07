@@ -8,7 +8,5 @@
 
 ### Success Quote 🏆
 
-<p style="text-align: center;">            Walk properly, not slowly, work smartly, not quickly 
+<p style="text-align: center;">Walk properly, not slowly, work smartly, not quickly</p>
 
-                                                 [Syafiq Asyraf]
-</p>
