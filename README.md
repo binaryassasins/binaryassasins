@@ -8,5 +8,5 @@
 
 ### Success Quote 🏆
 
-<p style="text-align: center;"><strong>Walk properly, not slowly, work smartly, not quickly</strong></p>
+# <p style="text-align: center;"><strong>Walk properly, not slowly, work smartly, not quickly</strong></p>
 
