@@ -7,11 +7,7 @@
 🏮 Keep up-to-date with my repositories!
 
 ### Links
-```markdown
-[![Button Example]][https://www.linkedin.com/in/mohd-syafiq-asyraf-100762229/]
-```
-```markdown
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
-```
+[![Button Click]][Link] 
+
 ### Success Quote 🏆
 *<p style="text-align: center;">Walk properly, not slowly, work smartly, not quickly</p>*
