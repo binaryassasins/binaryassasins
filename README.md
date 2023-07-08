@@ -11,3 +11,10 @@
 
 ### Success Quote 🏆
 *<p style="text-align: center;">Walk properly, not slowly, work smartly, not quickly</p>*
+
+
+[Button Hover]: https://img.shields.io/badge/Hover_Over_Me!-37a779?style=for-the-badge
+[Button Click]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
+[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+
+[Link]: # 'Link with example title.'
