@@ -4,7 +4,7 @@
 
 🏮 Feel free to explore my repositories
 
-🏮 Keep up-to-date with my repositories!
+🏮 Follow me to keep up-to-date with my upcoming repo's!
 
 ### Success Quote 🏆
 *<p style="text-align: center;">Walk properly, not slowly, work smartly, not quickly</p>*
