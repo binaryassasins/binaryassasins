@@ -10,8 +10,7 @@
 
 <picture float="left">
   <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=binaryassasins&show_icons=true&bg_color=90,da4453,89216b&hide_border=true&title_color=000000&text_color=ffffff&icon_color=000000]"
-    media="(prefers-color-scheme: dark)"
+    srcset="[https://github-readme-stats.vercel.app/apiusername=binaryassasins&show_icons=true&bg_color=90,da4453,89216b&hide_border=true&title_color=000000&text_color=ffffff&icon_color=000000]"
   />
   <source
     srcset="[https://github-readme-stats.vercel.app/api/top-langs/ username=binaryassasins&layout=donut&bg_color=90,da4453,89216b&hide_border=true&title_color=000000&text_color=ffffff&icon_color=000000]"
