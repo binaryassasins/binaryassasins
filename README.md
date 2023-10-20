@@ -9,7 +9,7 @@
 ### Github Status 📈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binaryassasins&show_icons=true&bg_color=90,da4453,89216b&hide_border=true&title_color=000000&text_color=ffffff&icon_color=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryassasins&layout=donut&bg_color=90,da4453,89216b&hide_border=true&title_color=000000&text_color=ffffff&icon_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryassasins&layout=compact&bg_color=90,da4453,89216b&hide_border=true&title_color=000000&text_color=ffffff&icon_color=000000)
 
 ### Success Quote 🏆
 *<p style="text-align: center;">Walk properly, not slowly, work smartly, not quickly</p>*
