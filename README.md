@@ -6,7 +6,7 @@
 
 🏮 Follow me to keep up-to-date with my upcoming projects!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binaryassasins&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binaryassasins&show_icons=true&theme=dark&bg_color=45,#200122,#6f0000&hide_border=true)
 
 ### Success Quote 🏆
 *<p style="text-align: center;">Walk properly, not slowly, work smartly, not quickly</p>*
