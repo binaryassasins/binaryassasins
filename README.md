@@ -16,5 +16,5 @@
 
 ### Connect With Me 🤝
 
-![Static Badge](https://img.shields.io/badge/Profile-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-syafiq-asyraf-100762229/)
-
+![Static Badge](https://img.shields.io/badge/Profile-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohd-syafiq-asyraf-100762229%2F)
+![Static Badge](https://img.shields.io/badge/Forum-Stack%20Overflow-%23F24C3D?style=flat&logo=stackoverflow&logoColor=%23F24C3D&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F18502051%2Fsyafiq-asyraf)
