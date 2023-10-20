@@ -9,6 +9,5 @@
 ### Success Quote 🏆
 *<p style="text-align: center;">Walk properly, not slowly, work smartly, not quickly</p>*
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohd-syafiq-asyraf-100762229" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/mohd-syafiq-asyraf-100762229?trk=profile-badge">Mohd Syafiq Asyraf</a></div>
-              
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
